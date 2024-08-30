@@ -1,4 +1,7 @@
 <p align="center">
+<img src='images/gif1.gif'></img>
+</p>
+<p align="center">
   <samp>
    Hi! I'm Y,
   </samp>
