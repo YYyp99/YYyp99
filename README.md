@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <samp>
-   Hi! I'm Y,
+   ✨ 哇哦！你发现了我！我是 Y ✨
   </samp>
 </p>
 
@@ -15,8 +15,9 @@
 
 <p align="center">
   <samp>
-    祝大家身体健康,天天开心.
-    <br>Wishing everyone good health and happiness every day.
+    🌈 欢迎光临我的数字游乐场 🌈<br>
+    祝大家身体健康，天天开心~<br>
+    (♥ω♥ ) ~♪ Sending good vibes your way! (♥ω♥ ) ~♪
   </samp>
 </p>
 
@@ -28,8 +29,28 @@
 
 <p align="center">
   <samp>
-    @ me on <a href="https://weibo.com/u/5993242380">weibo</a><br><br>
+    🍭 这里有各种脑洞大开的点子 🍭<br>
+    🌟 偶尔会掉落一些小惊喜 🌟<br>
+    🐱 网抑云时请勿打扰 🐱
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    💫 <a href="https://lambstory.top">我的秘密基地</a> | 
+    🦄 <a href="https://weibo.com/u/5993242380">来微博找我玩呀</a> 💫<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
 
+<p align="center">
+  <samp>
+    "正在努力成为一颗星星，虽然可能只是个废弃的卫星" 🚀✨
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    ——PS: 如果网页加载太慢，那是因为可爱需要时间缓冲！——
+  </samp>
+</p>
