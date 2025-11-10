@@ -4,9 +4,8 @@
 
 **数据工程师 / 云端搬砖人**
 
-
-[![Blog](https://img.shields.io/badge/🏠_我的小站-lambstory.top-ff69b4?style=for-the-badge)](https://lambstory.top)
-[![Weibo](https://img.shields.io/badge/🐦_微博-@Y-ff8c00?style=for-the-badge&amp;logo=sina-weibo)](https://weibo.com/u/5993242380)
+[![Blog](https://img.shields.io/badge/🌸_博客-lambstory.top-ff69b4?style=for-the-badge&amp;logoColor=white)](https://lambstory.top)
+[![Weibo](https://img.shields.io/badge/🎀_微博-@Y-ff8c00?style=for-the-badge&amp;logo=sina-weibo&amp;logoColor=white)](https://weibo.com/u/5993242380)
 
 </div>
 
@@ -107,7 +106,6 @@
 
 **🎉 欢迎来玩 · 💬 随便聊聊 · 🤝 一起学习**
 
-<img alt="访客统计" src="https://komarev.com/ghpvc/?username=YYyp99&amp;label=有这么多人来过&amp;color=ff69b4&amp;style=flat">
 
 ✨ *"代码改变世界，bug 改变人生"* ✨
 
