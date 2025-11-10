@@ -1,11 +1,11 @@
-</span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span></p><p>
-<img src="images/your_cool_cyberpunk_gif.gif">
+<p>
+  <img src="https://i.imgur.com/dBaSKWF.gif">
 </p>
 
 <p>
   <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
    ✨「Y 的数据工坊」✨
-  </span></span>
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
 </p>
 
 <p>
@@ -57,45 +57,33 @@
 </p>
 
 <p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    编程语言
-    
-    
-    
-    
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
 </p>
 
 <p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    大数据技术
-    
-    
-    
-    
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apache-hadoop&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apache-spark&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&amp;logo=apache-flink&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apache-kafka&amp;logoColor=white">
 </p>
 
 <p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    云与容器
-    
-    
-    
-    
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white">
 </p>
 
 <p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    数据存储
-    
-    
-    
-    
-    
-    
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&amp;logo=apache-hive&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazon-s3&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&amp;logo=clickhouse&amp;logoColor=black">
 </p>
 
 <p>
@@ -153,7 +141,5 @@
 </p>
 
 <p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+  <img src="https://komarev.com/ghpvc/?username=pifafu&amp;label=访问量&amp;color=0e75b6&amp;style=flat">
 </p>
