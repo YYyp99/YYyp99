@@ -1,61 +1,63 @@
-<div>
-  <img src="images/your_cool_cyberpunk_gif.gif">
-</div>
-
-<h1>👋 Hi, I'm Y</h1>
-
 <p>
-  <em>Data Engineer · Infrastructure Architect · Cloud Enthusiast</em>
+<img src="images/your_cool_cyberpunk_gif.gif">
 </p>
 
----
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+   ⚡ Y's Data Engineering Lab ⚡
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-### 💼 About Me
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-- 🔧 专注于大数据基础设施与分布式系统架构
-- ☁️ 云原生技术实践者，构建可扩展的数据平台
-- 🌐 开源爱好者，持续学习与分享
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    👋 欢迎来到我的数据世界 👋
+    专注于大数据基础设施与云原生架构
+    构建可靠、可扩展的分布式系统
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
----
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-### 🛠️ Tech Stack
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    💼 Data Engineer · Infrastructure Architect
+    ☁️ Cloud Native Practitioner · DevOps Enthusiast
+    🚀 持续探索数据技术的边界
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-**Big Data &amp; Processing**
-- Hadoop · Spark · Flink · Hive · Presto
-- Kafka · DataFlow · ETL Pipeline
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    🔥 博客：技术分享与实践 🔥
+    ⚡ 微博：@可爱的杨 ⚡
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-**Cloud Native &amp; Infrastructure**
-- Kubernetes · Docker 
-- AWS 
-- CI/CD · Monitoring · Log System
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    "从数据混沌中创造秩序，用代码构建可靠的基础设施" 💻
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-**Programming Languages**
-- Python · Java · Scala 
-- SQL 
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    —— 热爱开源，相信技术的力量 ——
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-**Databases &amp; Storage**
-- MySQL · PostgreSQL · Redis
-- MongoDB · Elasticsearch
-- HDFS · S3 
-
----
-
-### 📝 Recent Focus
-
-- 🚀 优化大规模数据处理性能
-- 🔄 容器化与自动化部署实践
-- 📈 数据平台治理与成本优化
-
----
-
-### 📫 Connect With Me
-
-- 💡 博客：[lambstory.top](https://lambstory.top)
-- 🐦 微博：[@可爱的杨](微博链接)
-
----
-
-<div>
-  <img src="https://i.imgur.com/kdKhgx6.gif">
-  <p><span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;sub&gt;</span><span style="color: black; font-weight: normal;">Building reliable systems with passion 🚀</span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/sub&gt;</span><br><br></span></p>
-</div>
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    ✨ Hadoop · Spark · Kubernetes · Cloud Native ✨
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
