@@ -4,8 +4,8 @@
 
 **数据工程师 / 云端搬砖人**
 
-[![Blog](https://img.shields.io/badge/🌸_博客-lambstory.top-ff69b4?style=for-the-badge&amp;logoColor=white)](https://lambstory.top)
-[![Weibo](https://img.shields.io/badge/🎀_微博-@Y-ff8c00?style=for-the-badge&amp;logo=sina-weibo&amp;logoColor=white)](https://weibo.com/u/5993242380)
+[![](https://img.shields.io/badge/dynamic/json?color=ff69b4&amp;label=🏡%20博客&amp;query=\$.message&amp;url=https://lambstory.top&amp;style=flat&amp;logo=google-chrome&amp;logoColor=white)](https://lambstory.top)
+[![](https://img.shields.io/badge/🎈%20微博-@Y-ff8c00?style=flat&amp;logo=sina-weibo&amp;logoColor=white)](https://weibo.com/u/5993242380)
 
 </div>
 
