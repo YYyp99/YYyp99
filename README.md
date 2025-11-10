@@ -1,112 +1,141 @@
-<div>
+<p>
+<img src="images/your_cool_cyberpunk_gif.gif">
+</p>
 
-# 👋 嗨，我是 Y
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+   ✨「Y 的数据工坊」✨
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-**数据工程师 / 云端搬砖人**
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-[![](https://img.shields.io/badge/dynamic/json?color=ff69b4&amp;label=🏡%20博客&amp;query=\$.message&amp;url=https://lambstory.top&amp;style=flat&amp;logo=google-chrome&amp;logoColor=white)](https://lambstory.top)
-[![](https://img.shields.io/badge/🎈%20微博-@Y-ff8c00?style=flat&amp;logo=sina-weibo&amp;logoColor=white)](https://weibo.com/u/5993242380)
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    👋 你好，我是一名数据工程师
+    专注于大规模数据处理与云基础设施
+    用技术让数据产生价值
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
-</div>
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
+
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    💼 日常工作：数据管道开发与优化
+    🔧 技术方向：分布式计算 &amp; 云原生架构
+    📝 业余爱好：技术博客写作与开源贡献
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
+
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    🏡 个人博客 🏡
+    🎈 我的微博 🎈
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
 
 ---
 
-## 🎮 关于我这个人
+## 💻 技术栈
 
-- 🔨 白天：和数据管道较劲的工程师
-- 🌙 晚上：在 Kubernetes 集群里迷路的运维
-- 💭 爱好：让复杂的东西变简单（然后又变复杂）
+### 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
 
-## 🧰 我的工具箱
+### 大数据技术
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apache-hadoop&amp;logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apache-spark&amp;logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&amp;logo=apache-flink&amp;logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apache-kafka&amp;logoColor=white)
 
-### 💬 会说的语言
-![Python](https://img.shields.io/badge/Python-老朋友了-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-能干活-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-偶尔用用-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-每天都写-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
+### 云与容器
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white)
 
-### 🎯 大数据全家桶
-![Hadoop](https://img.shields.io/badge/Hadoop-大象很可爱-66CCFF?style=flat-square&amp;logo=apache-hadoop&amp;logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-又快又烫-E25A1C?style=flat-square&amp;logo=apache-spark&amp;logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-实时处理王者-E6526F?style=flat-square&amp;logo=apache-flink&amp;logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-消息快递员-231F20?style=flat-square&amp;logo=apache-kafka&amp;logoColor=white)
+### 数据存储
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&amp;logo=apache-hive&amp;logoColor=black)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazon-s3&amp;logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&amp;logo=clickhouse&amp;logoColor=black)
 
-### ☁️ 云上玩具
-![Kubernetes](https://img.shields.io/badge/K8s-容器指挥官-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-打包小能手-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-烧钱利器-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-代码变基建-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white)
+---
 
-### 🗄️ 数据的家
-![MySQL](https://img.shields.io/badge/MySQL-经典老伙计-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-大象数据库-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-速度与激情-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-数仓老大哥-FDEE21?style=flat-square&amp;logo=apache-hive&amp;logoColor=black)
-![S3](https://img.shields.io/badge/S3-云端仓库-569A31?style=flat-square&amp;logo=amazon-s3&amp;logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-查询飞快-FFCC01?style=flat-square&amp;logo=clickhouse&amp;logoColor=black)
-
-## 🎨 我的技能树
+## 🎯 专业领域
 
 <table>
 <tbody><tr>
 <td>
 
-### 🌊 数据处理
-- ✨ 让 TB 级数据跑得飞快
-- 🔄 搭建实时数据流水线
-- 🏗️ 数据湖/数据仓库建设
-- 🔍 ETL 管道开发
+### 数据处理
+- 大规模数据 ETL/ELT 管道开发
+- 实时流处理架构设计
+- 数据湖与数据仓库建设
+- 数据质量保障体系
 
 </td>
 <td>
 
-### ☁️ 云端魔法
-- 🎪 K8s 集群驯兽师
-- 📦 容器化一切
-- 🤖 基础设施代码化
-- 💰 云成本优化（省钱大师）
+### 云基础设施
+- Kubernetes 集群运维与优化
+- 容器化应用部署
+- 基础设施即代码（IaC）
+- 云成本优化
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 🔧 工程实践
-- 📊 性能调优（压榨机器）
-- 🐛 Debug 高手
-- 📈 监控告警搭建
-- 🚀 CI/CD 流水线
+### 工程实践
+- 性能调优与监控
+- CI/CD 流水线建设
+- 代码质量管理
+- 分布式系统设计
 
 </td>
 <td>
 
-### 🎯 数据架构
-- 🏛️ 数据仓库建模
-- 🌟 湖仓一体方案
-- 📝 元数据管理
-- 🧬 数据血缘追踪
+### 数据架构
+- 数据仓库建模
+- 湖仓一体架构
+- 元数据管理
+- 数据血缘追踪
 
 </td>
 </tr>
 </tbody></table>
 
-## 🌱 最近在折腾
+---
 
-&gt; "学习新技术就像开盲盒，永远不知道会踩到什么坑"
+## 🌱 持续学习
 
-**正在探索的新大陆**：
-- 🤖 AI 应用开发（跟风学 AI）
-- 🧠 大模型应用落地（提示词工程师？）
+**当前关注领域**：
+- 🤖 AI 应用开发与落地
+- 🧠 大语言模型应用实践
 - ⚡ RAG 检索增强生成
-- 🎨 Agent 智能体开发
+- 🎨 智能体（Agent）开发
 
 ---
 
-<div>
-
-**🎉 欢迎来玩 · 💬 随便聊聊 · 🤝 一起学习**
-
-
-✨ *"代码改变世界，bug 改变人生"* ✨
-
-</div>
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    "持续学习，追求技术深度与广度的平衡"
+    
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
