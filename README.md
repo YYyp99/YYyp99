@@ -1,5 +1,5 @@
-<p>
-  <img src="https://i.imgur.com/dBaSKWF.gif">
+</p><p>
+  <img src="images/your_cool_cyberpunk_gif.gif">
 </p>
 
 <p>
@@ -46,100 +46,18 @@
 
 <p>
   <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    💻 技术栈
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&amp;logo=apache-hadoop&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apache-spark&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&amp;logo=apache-flink&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apache-kafka&amp;logoColor=white">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&amp;logo=apache-hive&amp;logoColor=black">
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazon-s3&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&amp;logo=clickhouse&amp;logoColor=black">
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    🎯 专业领域
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    🌊 数据处理：大规模 ETL 管道 · 实时流处理 · 数据湖仓建设
-    ☁️ 云基础设施：K8s 集群运维 · 容器化部署 · 成本优化
-    🔧 工程实践：性能调优 · CI/CD · 分布式系统设计
-    🎯 数据架构：数仓建模 · 湖仓一体 · 元数据管理
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    🌱 最近在折腾
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    🤖 AI 应用开发与落地
-    🧠 大语言模型应用实践
-    ⚡ RAG 检索增强生成
-    🎨 智能体（Agent）开发
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
-</p>
-
-<p>
-  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
     "持续学习，追求技术深度与广度的平衡"
   </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pifafu&amp;label=访问量&amp;color=0e75b6&amp;style=flat">
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    —— 擅长：大数据处理 · 云原生架构 · 数据基础设施建设 ——
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
+</p>
+
+<p>
+  <span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;samp&gt;</span><span style="color: black; font-weight: normal;">
+    ⭐ Python · Java · Scala · SQL | Hadoop · Spark · Kubernetes ⭐
+  </span><span style="color: rgb(150, 34, 73); font-weight: bold;">&lt;/samp&gt;</span><br><br></span>
 </p>
