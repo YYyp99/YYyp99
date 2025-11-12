@@ -15,14 +15,6 @@
 
 <p align="center">
   <samp>
-    ⚠️ 警告：数据流量过载，限制访问权限 ⚠️<br>
-    「以混沌数据之名，赋予汝等秩序之力」<br>
-    『吾之集群，承载万物信息长河！』
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
   </samp>
 </p>
@@ -49,14 +41,5 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    —— 「此系统已启用神秘守护，唯持有PB级权限者方可操控」——
-  </samp>
-</p>
 
-<p align="center">
-  <samp>
-    ✴️✴️✴️ 以Hadoop之名，以Kubernetes之盾，释放无尽横向扩展之术 ✴️✴️✴️
-  </samp>
-</p>
+
