@@ -30,7 +30,7 @@
 <p align="center">
   <samp>
     🔥 <a href="https://lambstory.top">开启传送门：接入核心数据节点</a> 🔥<br>
-    ⚡ <a href="@_可爱的杨 的个人主页 - 微博">量子通讯频道：思维同步装置</a> ⚡<br><br>
+    ⚡ <a href="[@_可爱的杨 的个人主页 - 微博](http://weibo.com/u/5177703103)">量子通讯频道：思维同步装置</a> ⚡<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
